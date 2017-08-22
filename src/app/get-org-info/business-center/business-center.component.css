@@ -1,0 +1,148 @@
+section {
+  background-color: #ebebeb;
+  height: 100%;
+  position: relative;
+}
+img {
+  vertical-align:middle;
+}
+.imgBox {
+  height: 4.173rem;
+  background-color: #06c1ae;
+  padding-top: 1.36rem;
+  text-align: center;
+}
+.imgBoxBorder {
+  width: 2.333rem;
+  height: 2.333rem;
+  border: 0.133rem #83e0d7 solid;
+  border-radius:200px;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+.imgBoxBorder img {
+  width: 2.067rem;
+  border-radius:200px;
+}
+.user-name {
+  margin: 0.24rem auto;
+  font-size: 0.373rem;
+  color: #ffffff;
+}
+.user-tel {
+  font-size: 0.293rem;
+  line-height: 0.293rem;
+  color: #ffffff;
+}
+.user-tel img {
+  width: 0.347rem;
+  height: 0.347rem;
+}
+.business-option {
+  margin-top: 0.267rem;
+  height: 3.52rem;
+  background-color: #ffffff;
+  border: 1px solid #c5c3c3;
+  box-sizing: border-box;
+  padding-left: 0.333rem;
+  font-size: 0.373rem;
+  color: #333333;
+}
+.business-option img {
+  width: 0.48rem;
+  margin-right: 0.293rem;
+  margin-top: -0.067rem;
+}
+.option-one {
+  height: 1.16rem;
+  line-height: 1.16rem;
+  border-bottom: 1px solid #c5c3c3;
+  box-sizing: border-box;
+  padding-left: 0.08rem;
+}
+.pic_right {
+  float: right;
+  vertical-align:middle;
+  margin-top: 0.4rem !important;
+  margin-right: 0.4rem !important;
+}
+.finally-option {
+  border: none;
+}
+.business-center-bottom {
+  position: fixed;
+  bottom: 3.347rem;
+  height: 1.347rem;
+  width: 100%;
+  background-color: #fafafa;
+  z-index: 111;
+}
+
+
+
+
+
+
+
+
+
+
+.whole{
+  width: 100%;
+  height:100%;
+  background: #ebebeb;
+}
+.top{
+  width: 100%;
+  height:1.173rem;
+  background: #06c1ae;
+}
+.whole_commodity{
+  margin-left: 0.373rem;
+  font-size:0.453rem;
+  color:#ffffff;
+  float:left;
+  line-height: 1.173rem;
+}
+.add_commodity{
+  margin-right: 0.16rem;
+  font-size:0.373rem;
+  color:#ffffff;
+  float:right;
+  line-height: 1.173rem;
+}
+
+.bottom{
+  width: 100%;
+  height:1.333rem;
+  background: #fafafa;
+  border: 0.013rem solid #d1d1d1;
+  position: absolute;
+  bottom: 1.133rem;
+}
+.shop_img{
+  width: 1.762rem;
+  height: 100%;
+  float: left;
+}
+.shop_img img{
+  width: 0.693rem;
+  height: 0.693rem;
+  margin: 0.32rem 0.533rem;
+}
+.top img{
+  width: 0.4rem;
+  height: 0.4rem;
+  float: right;
+  margin:0.386rem 0.373rem 0.386rem 0;
+}
+.commodity_istration,.receivables,.my_shop{
+  float: left;
+  width: 2.73rem;
+  height: 100%;
+  color: #4a4a4a;
+  font-size: 0.4rem;
+  text-align: center;
+  line-height: 1.333rem;
+  border-left: 0.013rem solid #d1d1d1;
+}

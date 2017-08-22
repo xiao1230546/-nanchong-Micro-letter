@@ -1,0 +1,64 @@
+.div1{
+  background: #ebebeb;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+}
+.navDiv {
+  width: 100%;
+  height: 1.173rem;
+  line-height: 1.173rem;
+  background-color: #06C1AE;
+  text-align: center;
+  color: #ffffff;
+  font-size: 0.453rem;
+  font-family: arial,"MicrosoftYaHei";
+  position: relative;
+}
+.backBtn {
+  top: 0.303rem;
+  left: 0.32rem;
+  width: 0.48rem;
+  height: 0.48rem;
+  position: absolute;
+}
+.BgDiv {
+  left: 0.533rem;
+  top: 2.067rem;
+  background-color: white;
+  width: 8.933rem;
+  height: 13.093rem;
+  position: absolute;
+  border-radius: 0.08rem;
+}
+.DimensionCodeTitleImg {
+  left: 0.48rem;
+  top: 0.48rem;
+  position: absolute;
+  width: 1.543rem;
+  height: 1.543rem;
+  border-radius: 0.133rem;
+}
+.titleLb {
+  left: 2.427rem;
+  top: 0.64rem;
+  position: absolute;
+  font-size: 0.48rem;
+}
+.directionLb {
+  left: 2.427rem;
+  top: 1.373rem;
+  position: absolute;
+  font-size: 0.32rem;
+  color: #bdbdbd;
+  
+}
+.DimensionCodeImg {
+  left: 1.067rem;
+  top: 3rem;
+  position: absolute;
+  width: 6.827rem;
+  height: 6.827rem;
+}

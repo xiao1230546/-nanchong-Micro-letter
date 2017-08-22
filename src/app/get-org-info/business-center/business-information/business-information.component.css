@@ -1,0 +1,116 @@
+.webuploader-container {
+  position: relative;
+}
+.webuploader-element-invisible {
+  position: absolute !important;
+  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+  clip: rect(1px,1px,1px,1px);
+}
+.webuploader-pick {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  background: #00b7ee;
+  padding: 10px 15px;
+  color: #fff;
+  text-align: center;
+  border-radius: 3px;
+  overflow: hidden;
+}
+.webuploader-pick-hover {
+  background: #00a2d4;
+}
+
+.webuploader-pick-disable {
+  opacity: 0.6;
+  pointer-events:none;
+}
+
+
+
+
+
+section {
+  padding-bottom: 1.333rem;
+  /*height: 100%;*/
+  background-color: #ebebeb;
+}
+img {
+  vertical-align: middle;
+}
+.doorplate {
+  width: 100%;
+  height: 2.16rem;
+  line-height: 2.16rem;
+  background-color: #ffffff;
+  border-top: 1px solid #d1d1d1;
+  border-bottom: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  display: table;
+  clear: both;
+  zoom: 1;
+}
+.doorplate span {
+  font-size: 0.453rem;
+  display: inline-block;
+  float: left;
+  letter-spacing: 1px;
+  margin-left: 0.533rem;
+}
+.doorplate img {
+  /*display: inline-block;*/
+  width: 1.627rem;
+  border-radius: 6px;
+  float: right;
+  vertical-align: middle;
+  margin-top: 0.267rem;
+  margin-right: 0.347rem;
+}
+.data-list {
+  margin-top: 0.373rem;
+  background-color: #ffffff;
+  padding-left: 0.4rem;
+  border-top: 1px solid #d1d1d1;
+  border-bottom: 1px solid #d1d1d1;
+}
+.merchant-name {
+  height: 1.173rem;
+  line-height: 1.173rem;
+  border-bottom: 1px solid #d1d1d1;
+}
+.merchant-name label {
+  color: #999999;
+  font-size: 0.347rem;
+  letter-spacing: 1px;
+}
+.merchant-name input {
+  width: 5.8rem;
+  color: #111111;
+  margin-left: 1.013rem;
+  font-size: 0.347rem;
+  letter-spacing: 1px;
+}
+#bank-card {
+  border-bottom: none;
+}
+.business-license p{
+  font-size: 0.347rem;
+  margin-top: 0.8rem;
+  margin-left: 0.533rem;
+}
+.business-license div {
+  width: 9.223rem;
+  height: 6.373rem;
+  background-color: #ffffff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  margin-left: 0.4rem;
+  margin-top: 0.267rem;
+  text-align: center;
+}
+.business-license div img {
+  width: 3.26rem;
+  height: 4.747rem;
+  display: inline-block;
+  margin-top: 0.8rem;
+}

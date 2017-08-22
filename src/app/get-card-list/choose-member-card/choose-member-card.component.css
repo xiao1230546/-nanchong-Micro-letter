@@ -1,0 +1,92 @@
+.divHome {
+  width: 100%;
+  height: 100%;
+  background: #111111;
+  opacity: 50%;
+  position: absolute;
+  margin: 0;
+  padding: 0;
+}
+.MidDiv {
+  width: 100%;
+  height: 5.573rem;
+  background: white;
+  position: absolute;
+  margin-top: 50%;
+}
+.div1 {
+  width: 100%;
+  height: 1.173rem;
+  background-color: white;
+  border-bottom: 0.013rem solid #d1d1d1;
+}
+.label1 {
+  margin-top: 0.387rem;
+  margin-left: 0.693rem;
+  font-size: 0.4rem;
+  color: #111111;
+  position: absolute;
+}
+.deleteBtn {
+  position: absolute;
+  margin-left: 9.073rem;
+  margin-top: 0.357rem;
+  width: 0.533rem;
+  height: 0.533rem;
+}
+.div2 {
+  width: 100%;
+  height: 3.253rem;
+  background-color: white;
+  border-bottom: 0.013rem solid #d1d1d1;
+}
+.card1DIv {
+  height: 0.947rem;
+  width: 8.4rem;
+  margin-top: 0.48rem;
+  margin-left: 0.693rem;
+  font-size: 0.373rem;
+  color: #111111;
+  position: absolute;
+  border: 0.013rem solid #06C1AE;
+  background-color: rgb(242, 242, 242);
+  line-height: 0.947rem;
+  padding-left: 0.267rem;
+  
+}
+.card2DIv {
+  height: 0.947rem;
+  width: 8.4rem;
+  margin-top: 1.813rem;
+  margin-left: 0.693rem;
+  font-size: 0.373rem;
+  color: #111111;
+  position: absolute;
+  border: 0.013rem solid #06C1AE;
+  background-color: rgb(242, 242, 242);
+  line-height: 0.947rem;
+  padding-left: 0.267rem;
+}
+.card1Btn {
+  top: 0.23rem;
+  left: 7.88rem;
+  position: absolute;
+  width: 0.48rem;
+  height: 0.48rem;
+}
+.card2Btn {
+  top: 0.23rem;
+  left: 7.88rem;
+  position: absolute;
+  width: 0.48rem;
+  height: 0.48rem;
+}
+.div3 {
+  width: 100%;
+  height: 1.173rem;
+  background-color: white;
+  line-height: 1.173rem;
+  color: #06C1AE;
+  text-align: center;
+  font-size: 0.4rem;
+}

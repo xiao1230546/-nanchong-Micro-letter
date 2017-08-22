@@ -1,0 +1,44 @@
+
+.layer_z{
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color:rgba(17,17,17,0.5);
+  z-index: 9999;
+  width: 100%;
+  height: 100%;
+}
+.layer{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  z-index: 99999;
+  width: 100%;
+  
+  
+}
+
+.layer_a{
+  height: 3.066rem;
+  border-radius: 0.346rem;
+  overflow: hidden;
+  
+}
+.layer_m,.layer_g,.layer_qx{
+  color: #ff3b30;
+  height: 1.546rem;
+  width: 100%;
+  line-height: 1.546rem;
+  font-size: 0.48rem;
+  background-color: #ebebeb;
+}
+.layer_g,.layer_qx{
+  color: #007aff;
+  background-color: #ffffff;
+}
+.layer_qx{
+  border-radius: 0.346rem;
+  margin-top: 0.213rem;
+  margin-bottom: 0.213rem;
+}

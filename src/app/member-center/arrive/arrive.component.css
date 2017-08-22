@@ -1,0 +1,75 @@
+.arrive div{
+  padding: 0;
+  height: 1.067rem;
+  line-height:1.066rem;
+  
+}
+.arrive_a{
+  background-color: #ffffff;
+}
+.arrive_img{
+  width: 0.48rem;
+  height: 0.48rem;
+  line-height:1rem !important;
+}
+.arrive_text{
+  font-size: 0.373rem;
+  color: #111111;
+}
+.arrive_xiangq div{
+  padding: 0;
+  
+}
+
+
+.arrive_b{
+  height: 3.173rem;
+}
+.arrivea_img{
+  width: 2.026rem;
+  height: 2.026rem;
+}
+.arrive_xiangq{
+  height: 2.026rem;
+  padding-top: 0.533rem;
+}
+
+.arrive_texta{
+  font-size: 0.346rem;
+  color:#111111 ;
+ 
+}
+.arrive_text{
+  font-size: 0.293rem;
+  color:#06C1AE ;
+}
+.arrive_texta_sa{
+
+}
+
+.arrive_c{
+  background-color: #ffffff;
+}
+.arriveheji{
+  height: 1.066rem;
+  border-bottom:0.013rem solid #d1d1d1;
+  line-height: 1.066rem;
+  
+}
+.arriveheji_ad{
+  font-size: 0.4266rem;
+  color: #06C1AE;
+}
+.arriveheji_remov{
+  width: 2.0533rem;
+  height: 0.733rem;
+  text-align: center;
+  color: #FF7400;
+  border: 0.013rem solid #ff7400;
+  line-height: 0.733rem;
+  border-radius: 0.107rem;
+}
+
+.arriveheji_a{
+  padding-top: 0.1665rem;
+}

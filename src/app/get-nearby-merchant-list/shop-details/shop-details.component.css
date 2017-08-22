@@ -1,0 +1,132 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background: #ebebeb;
+}
+.top{
+  background: #ffffff;
+  height: 2.16rem;
+  width: 100%;
+  border: 1px solid #d1d1d1;
+}
+.top_center{
+  padding: 0.266rem 0rem;
+}
+.shop_logo{
+  margin-left: 0.266rem;
+  border-radius: 6px;
+  background: #ff0000;
+  width: 1.626rem;
+  height: 1.626rem;
+  float: left;
+}
+.shop_information{
+  margin-left: 0.24rem;
+  height: 1.626rem;
+  float: left;
+  position:relative
+}
+.shop_name{
+  font-size: 0.4rem;
+  color: #111111;
+}
+.shop_distance{
+  font-size: 0.32rem;
+  color: #666666;
+  position: absolute;
+  bottom: 0px;
+}
+.information{
+  width: 100%;
+  height: 2.346rem;
+  margin-top:0.373rem;
+  background: #ffffff;
+  border: 1px solid #d1d1d1;
+  padding-left: 0.4rem;
+}
+.boss_name_whole{
+  height: 1.173rem;
+  padding-left: 0.133rem;
+  border-bottom: 0.013rem solid #d1d1d1;
+  line-height: 1.173rem;
+}
+.shop_phone_whole{
+  height: 1.173rem;
+  padding-left: 0.133rem;
+  line-height: 1.173rem;
+}
+.boss_name{
+  color: #999999;
+  font-size: 0.346rem;
+}
+.name{
+  color: #111111;
+  font-size: 0.346rem;
+  margin-left: 1.04rem;
+}
+.share{
+  width: 100%;
+  height: 1.173rem;
+  border-left: 0.053rem solid #ff7400;
+  border-bottom: 0.013rem solid #d1d1d1;
+  border-right: 0.013rem solid #d1d1d1;
+  line-height: 1.173rem;
+  background: #ffffff;
+}
+.share_text{
+  font-size:0.4rem;
+  color: #ff7400;
+  margin-left: 0.48rem;
+}
+.share img{
+  width: 0.48rem;
+  height: 0.48rem;
+  float: right;
+  margin-right: 0.48rem;
+  padding: 0.346rem 0rem;
+}
+.navigation{
+  width: 100%;
+  height: 1.173rem;
+  line-height: 1.173rem;
+  margin-top: 0.373rem;
+  background: #ffffff;
+  border-left: 0.053rem solid #ff7400;
+  border-bottom: 0.013rem solid #d1d1d1;
+  border-right: 0.013rem solid #d1d1d1;
+  border-top: 0.013rem solid #d1d1d1;
+}
+.navigation img{
+  width: 0.48rem;
+  height: 0.48rem;
+  float: right;
+  margin-right: 0.48rem;
+  padding: 0.346rem 0rem;
+}
+.minimap_img{
+  width: 100%;
+  background: #ff0000;
+  margin-top: 0.373rem;
+  height: 2.242rem
+}
+.location{
+  height: 1.093rem;
+  border: 0.013rem solid #d1d1d1;
+  background: #ffffff;
+}
+.address_img{
+  height: 0.48rem;
+  padding: 0.306rem 0rem;
+  margin-left: 0.533rem;
+  float: left;
+}
+.location span{
+  float: left;
+  color: #111111;
+  font-size: 0.346rem;
+  line-height: 1.093rem;
+  margin-left: 0.105rem;
+}
+

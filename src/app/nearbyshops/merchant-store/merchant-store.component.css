@@ -1,0 +1,136 @@
+.whole{
+  height: 100%;
+  background: #ebebeb;
+}
+.top{
+  width: 100%;
+  height: 1.6rem;
+}
+.return_left{
+  margin-left:0.2rem;
+  width :0.48rem;
+  height:0.48rem;
+  float:left;
+  margin-top: 0.56rem;
+}
+.search_right{
+  float: right;
+  width:8.64rem;
+  height:1.066rem;
+  background: #ffffff;
+  border: 0.013rem solid #d1d1d1;
+  border-radius: 0.08rem;
+  margin-top: 0.266rem;
+  margin-right: 0.146rem;
+}
+.query_img{
+  width: 0.72rem;
+  margin-left: 0.573rem;
+  float: left;
+  vertical-align:middle;
+  padding: 0.173rem 0rem;
+}
+.search_text{
+  color: #999999;
+  font-size: 0.346rem;
+  margin-left: 0.146rem;
+  line-height: 1.066rem;
+}
+.search_button{
+  height: 100%;
+  width: 1.68rem;
+  float: right;
+  text-align: center;
+  background: #06c1ae;
+  border-radius:0rem 0.08rem 0.08rem 0rem;
+}
+.search_button span{
+  color: #ffffff;
+  font-size: 0.426rem;
+  line-height: 1.066rem;
+}
+.bottom{
+  height: 1.333rem;
+  width: 100%;
+  background: #ff0000;
+  position: absolute;
+  bottom: 0px;
+  /*border: 1px solid #d1d1d1;*/
+}
+.bottom_shop_img{
+  width: 1.733rem;
+  height:100%;
+  background: #ffffff;
+  text-align: center;
+  float: left;
+}
+.commodity_information{
+  float: left;
+  height:100%;
+  width: 50%;
+  background: #ebebeb;
+  line-height:1.333rem;
+  text-align: center;
+  color: #4a4a4a;
+}
+.shop_information{
+  height: 100%;
+  width:30%;
+  background: #ffffff;
+  line-height:1.333rem;
+  float: left;
+  text-align: center;
+  color: #4a4a4a;
+}
+.business_item{
+  height: 2.346rem;
+  background: #ffffff;
+  border: 0.013rem solid #d1d1d1;
+  margin-bottom: 0.266rem;
+}
+.business_img{
+  width: 1.626rem;
+  height: 1.626rem;
+  float: left;
+  margin-top: 0.36rem;
+  margin-left: 0.4rem;
+}
+.business_info{
+  float: left;
+  position:relative;
+  height: 1.626rem;
+  margin-left: 0.266rem;
+  width: 6.5rem;
+  margin-top: 0.36rem;
+}
+.shop_distance{
+  font-size: 0.32rem;
+  color: #111111;
+  position: absolute;
+  bottom: 0px;
+}
+.shop_name{
+  font-size: 0.453rem;
+  color: #111111;
+  overflow : hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp:1;
+  -webkit-box-orient: vertical;
+}
+.shop_distance span{
+  font-size: 0.32rem;
+  color: #ff9503;
+}
+.shop_name span{
+  font-size: 0.453rem;
+  color: #06c1ae;
+  
+}
+.right_img{
+  width: 0.48rem;
+  height: 0.48rem;
+  float: right;
+  margin-top: 0.933rem;
+  margin-right: 0.293rem;
+}

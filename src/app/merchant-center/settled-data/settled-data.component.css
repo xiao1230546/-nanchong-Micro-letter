@@ -1,0 +1,51 @@
+.whole{
+  width: 100%;
+  height: 100%;
+  background: #ebebeb;
+  padding-top: 1.6rem;
+}
+.merchant_name,.business_name{
+  width: 8.453rem;
+  height: 1.226rem;
+  background: #ffffff;
+  border-radius:0.08rem;
+  margin:0rem 0.826rem;
+}
+.business_phone{
+  width: 8.453rem;
+  height: 1.226rem;
+  margin: 0.4rem 0.826rem;
+  border-radius:0.08rem;
+  background: #ffffff;
+}
+.merchant_name_img{
+  width: 0.48rem;
+  height: 0.48rem;
+  margin: 0.373rem 0 0.373rem 0.506rem ;
+  float: left;
+}
+.merchant_name input,.business_phone input,.business_name input{
+  font-size: 0.4rem;
+  color: #4a4a4a;
+  float: left;
+  margin-left: 0.693rem;
+  line-height: 1.226rem;
+}
+.delete_img{
+  float: right;
+  margin: 0.373rem 0.266rem;
+}
+.submitapply_btn{
+  width: 4rem;
+  height: 1.146rem;
+  background: #06c1ae;
+  border: 0.013rem solid #00bda2;
+  border-radius:0.133rem;
+  margin: 3.68rem 3.013rem 0rem 3.013rem;
+  color: #ffffff;
+  font-size: 0.48rem;
+  box-shadow: 0.053rem 0.173rem 0.36rem 0 #bfbdbd;
+}
+
+
+

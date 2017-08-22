@@ -1,0 +1,32 @@
+.mymembershipcard{
+  background-color: #ffffff;
+  margin-top: 0.2666rem;
+}
+.mymembershipcard_bor{
+  border-bottom: solid 0.013rem #d1d1d1;
+}
+.mymembershipcard_bor div{
+  padding: 0;
+  height: 1.173rem;
+  line-height: 1.173rem;
+}
+.mymembershipcard_kahao{
+  font-size:0.4rem ;
+  color: #111111;
+}
+.mymembershipcard_yuer{
+  font-size:0.346rem ;
+  color: #999999;
+}
+
+.mymembershipcard_sz{
+  height: 1.333rem;
+  line-height: 1.333rem;
+  margin-top: 0.2666rem;
+  background-color: #ffffff;
+  text-align: center;
+}
+.mymembershipcard_yuer_s{
+  font-size:0.4266rem ;
+  color: #06C1AE;
+}

@@ -1,0 +1,115 @@
+.membercenter{
+  height: 5.52rem;
+  background-color: #06C1AE;
+}
+.membercenter_div{
+  height: 2.32rem;
+  width: 2.32rem;
+  border-radius: 50%;
+  background-color: #000000;
+  margin: 0 auto;
+  margin-top: 1.36rem;
+  line-height: 2.32rem;;
+  overflow: hidden;
+}
+membercenter_div img{
+  width: 100%;
+  height: 100%;
+}
+.membercenter_name {
+  font-size: 0.373rem;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 0.24rem;
+}
+.membercenter_pohe{
+  display: inline-block;
+  width: 0.347rem;
+  height: 0.347rem;
+  background: url("../../../assets/img/shouji.png") no-repeat left center;
+  background-size: 0.347rem 0.347rem;
+  
+}
+.balance{
+  background-color: #F8F8F8;
+  height: 1.173rem;
+}
+.balanceyuer{
+  width: 0.48rem;
+  height: 0.48rem;
+}
+.balanceyuer img{
+  width: 100%;
+  
+}
+.balance_div div{
+  padding: 0;
+  margin: 0;
+   height: 1.173rem;
+  line-height: 1.173rem;
+}
+.balance_bt{
+  font-size: 0.373rem;
+  color: #333333;
+}
+.balance_bt_a{
+  font-size: 0.32rem;
+  color: #06C1AE;
+}
+.balance_c{
+  background-color: #ffffff;
+  height: 1.493rem;
+  border-bottom: 0.013rem solid #d1d1d1;
+  border-top: 0.013rem solid #d1d1d1;
+}
+.balance_c_div div{
+  padding: 0;
+  margin: 0;
+  margin-top: 0.133rem !important;
+}
+.status{
+  width: 0.533rem;
+  height: 0.533rem;
+  margin: 0 auto !important;
+}
+.status_as{
+  text-align: center;
+}
+.status_zhuangtai{
+  font-size: 0.32rem;
+  color: #666666;
+  margin-top: 0.187rem !important;
+}
+
+
+.balance_d{
+  background-color: #ffffff;
+  margin-top: 0.266rem;
+  
+}
+.balance_d_list{
+  height: 1.173rem;
+  line-height: 1.173rem;
+  border-bottom: 0.013rem solid #d1d1d1;
+}
+
+.balance_d_list_a{
+  border-bottom: 0rem solid #d1d1d1;
+}
+
+
+.balance_d_list_img{
+
+}
+
+.balance_d_list div{
+  padding: 0;
+}
+.balance_d_list_img,.balance_d_list_tubiao{
+  width: 0.48rem;
+  height: 0.48rem;
+}
+.balance_d_list_text{
+  font-size: 0.373rem;
+  color: #333333;
+}

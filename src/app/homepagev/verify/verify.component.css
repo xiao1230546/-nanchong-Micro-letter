@@ -1,0 +1,50 @@
+.register{
+  /*// height:1.226rem;*/
+  background-color: #EBEBEB;
+  padding: 1.546rem 0 0 0 ;
+  margin-bottom: 3.013rem
+}
+.register_name{
+  height: 1.227rem;
+  background-color: #ffffff;
+}
+.register_name>input{
+  height: 1.227rem;
+  color: #4a4a4a;
+  padding: 0 0 0 0.48rem;
+  border-radius: 0.08rem;
+  
+}
+.register_name .verify{
+  padding-left: 0rem;
+  height: 1.015rem;
+  background-color: #ffffff;
+  border-left:  0.013rem solid #BFBFBF;
+  margin: 0.106rem 0;
+  
+}
+
+
+.hint{
+  font-size: 0.293rem;
+  color: #4a4a4a;
+  padding-left: 0.182rem;
+}
+.hint>span{
+  
+  color: #06c1ae;
+ 
+}
+.ensure{
+  width: 4rem;
+  height: 1.147rem;
+  line-height: 1.147rem;
+  color: #ffffff;
+  font-size: 0.48rem;
+  text-align: center;
+  border-radius: 0.133rem;
+  background-color: #06C1AE;
+  margin: 0 auto !important;
+  box-shadow: 0.053rem 0.173rem 0.36rem #170808;
+  border: 0.013rem solid #00bda2;
+}

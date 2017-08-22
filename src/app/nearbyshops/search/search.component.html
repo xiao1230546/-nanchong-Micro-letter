@@ -1,0 +1,33 @@
+<div  class="search">
+  <div class="col-xs-12">
+    <div class=" searchshos">
+      <input #Key [(ngModel)]="Keys" (click)="skip()" type="text" placeholder="请输入商家名称">
+    </div>
+  </div>
+  <div  class="baidumaps">
+    <div class="map_com">
+      <div id="container"></div>
+    </div>
+  </div>
+</div>
+<div >
+  <div (click)="animation()" class="tlia">附近的超市</div>
+  <!--*ngFor="let data of Data"-->
+  <div  (click)="particulars()" class="list">
+    <div  class="tradenamea">
+      <div class="col-xs-12 tradename_div">
+        <div class="col-xs-3">
+          <div class="tradename_img">
+            <img src="http://temp.im/80x80/4CD964/fff" alt="">
+          </div>
+        </div>
+        <div class="col-xs-9 tradenamdiv">
+          <div class="tradenamep">
+            <p class="tradenamep_p1">重庆市至和便利店（二郎店）</p>
+            <p class="tradenamep_p2">距离您<span>274米</span></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

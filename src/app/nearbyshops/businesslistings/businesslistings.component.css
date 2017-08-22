@@ -1,0 +1,77 @@
+.search{
+  background-color: #EBEBEB;
+  padding-top: 0.2666rem;
+}
+.searchshos{
+  height: 1.173rem;
+  background-color: #ffffff;
+  border-radius:0.106rem ;
+}
+.searchshos input{
+  width: 100%;
+  height: 1.173rem;
+  padding-left: 1.333rem;
+  background: url("../../../assets/img/query.png") no-repeat left center;
+  background-size: 0.533rem 0.533rem;
+  background-position: 0.346rem;
+}
+.baidumaps{
+  padding-top: 0.2666rem;
+  width: 100%;
+  height: 5.36rem !important;
+  overflow: hidden;
+  
+}
+.tradename_div div{
+  padding: 0;
+}
+.tlia{
+  height:1.147rem;
+  line-height: 1.147rem;
+  background-color:#d1d1d1;
+  font-size: 0.48rem;
+  text-align: center;
+  
+}
+.tradename,.tradenamea{
+  background-color: #EFF5FC;
+  height: 2.333rem;
+  margin-bottom: 0.266rem;
+  padding-top: 0.346rem;
+}
+.tradenamea{
+  background-color: #FFFFFF;
+}
+.tradename_img{
+  width: 1.613rem;
+  height: 1.64rem;
+  overflow: hidden;
+}
+.tradename_img img{
+  width: 100%;
+  height: 100%;
+}
+.list{
+  background-color:#EBEBEB ;
+}
+.tradenamep{
+  height: 1.64rem;
+}
+.tradenamep p{
+  margin: 0;
+  height: 0.82rem;
+  line-height:0.82rem;
+  font-size: 0.453rem;
+  color: #111111;
+}
+.tradenamep .tradenamep_p2{
+  font-size: 0.32rem;
+  color: #666666;
+}
+.tradenamep .tradenamep_p2 span{
+  
+  color: #ff9503;
+}
+.tradenamdiv{
+  margin-left: -0.266rem;
+}

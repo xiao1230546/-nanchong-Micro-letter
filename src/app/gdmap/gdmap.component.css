@@ -1,0 +1,49 @@
+.search{
+  background-color: #EBEBEB;
+  padding: 0.2666rem 0;
+  height: 1.7062rem;
+}
+.searchsz{
+  height: 100%;
+}
+.searchshos{
+  height: 1.173rem;
+  background-color: #ffffff;
+  border-radius:0.106rem ;
+}
+.searchshos input{
+  width: 100%;
+  height: 1.173rem;
+  padding-left: 1.333rem;
+  background: url("../../assets/img/query.png") no-repeat left center;
+  background-size: 0.533rem 0.533rem;
+  background-position: 0.346rem;
+}
+
+.baidumaps{
+  width: 100%;
+  height: 5.36rem;
+  overflow: hidden;
+  
+}
+.tradename_div div{
+  padding: 0;
+}
+#container{
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.map_com{
+  width: 100%;
+  height: 100%;
+  
+}
+.tlia{
+  height:1.147rem;
+  line-height: 1.147rem;
+  background-color:#d1d1d1;
+  font-size: 0.48rem;
+  text-align: center;
+  
+}

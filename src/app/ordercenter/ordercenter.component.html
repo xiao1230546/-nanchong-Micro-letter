@@ -1,0 +1,28 @@
+<div class="container-full">
+  <!--标题-->
+  <h1 class="order-header">我的订单</h1>
+  <!--订单状态-->
+  <div class=" orderStatus">
+    <ul class="col-xs-12 orderStatusul">
+      <li (click)="check(0)" [routerLink]="['./order1']" routerLinkActive="active" class="col-xs-3"><a href="javascript:;" class="now">待付款</a></li>
+      <li (click)="check(1)" [routerLink]="['./order2']" routerLinkActive="active" class="col-xs-3"><a href="javascript:;">待发货</a></li>
+      <li (click)="check(2)" [routerLink]="['./order3']" routerLinkActive="active" class="col-xs-3"><a href="javascript:;">待收货</a></li>
+      <li (click)="check(3)" [routerLink]="['./order4']" routerLinkActive="active" class="col-xs-3"><a href="javascript:;">交易结束</a></li>
+    </ul>
+  </div>
+  <router-outlet></router-outlet>
+  <app-sect></app-sect>
+  <!--商品列表-->
+  
+</div>
+<nz-demo-spin-tip *ngIf="loadingoff"></nz-demo-spin-tip>
+<!--&lt;!&ndash;//待付款&ndash;&gt;-->
+<!--<app-order-btn ></app-order-btn>-->
+<!--&lt;!&ndash;//待发货&ndash;&gt;-->
+<!--<app-ordercount ></app-ordercount>-->
+
+<!--&lt;!&ndash;//确认收货&ndash;&gt;-->
+<!--<app-order3 ></app-order3>-->
+<!--&lt;!&ndash;完成订单&ndash;&gt;-->
+<!--<app-order4 ></app-order4>-->
+

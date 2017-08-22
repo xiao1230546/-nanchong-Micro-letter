@@ -1,0 +1,20 @@
+
+<div class="container register">
+  <div class="col-lg-12">
+    <p class="hint">绑定后，您可以使用微信富超所以功能，更安全,更方便。</p>
+  </div>
+  <div class="register_name col-lg-12" >
+    <input #name (blur)="gainphoes(name.value)" type="text" placeholder="用户名">
+  </div>
+  <div class="register_phoe col-lg-12">
+    <input id="phonea" #phone (blur)="gainphoe(phone.value)" type="text" placeholder="手机号">
+  </div>
+  <div class="col-lg-12 hint_deal">
+    <!--<p class="hint_deal">我以阅读并同意 <a href="javascript:;">《用户注册协议》</a></p>-->
+  </div>
+</div>
+
+<div class="col-lg-12">
+  <p   (click)="gain(phone.value,name.value)" class="ensure">确&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;定</p>
+</div>
+

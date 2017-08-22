@@ -1,0 +1,121 @@
+
+/*订单头部*/
+.order-header{
+  background: #06c1ae url('../../../assets/img/PUBLIC SIGNAL_ white left.png') no-repeat 0.3rem;
+  background-size:0.46rem 0.46rem;
+  height: 1.2rem;
+  color:#fff;
+  font:0.46rem/1.2rem 黑体,microsoft yahei,arial,sans-serif;
+  text-align: center;
+  margin:0;
+}
+.orderStatus{
+  background: #fff;
+  height:1.06rem;
+  font:0.293rem/1.06rem 黑体,microsoft yahei,arial,sans-serif;
+  border:0.013rem solid #d1d1d1;
+}
+.orderStatus ul li{
+  text-align: center;
+}
+.orderStatus a{
+  display: inline-block;
+  height:1.012rem;
+  color:#111111;
+}
+.orderStatus a.now{
+  color:#2cc5b4;
+  border-bottom:0.053rem solid #2cc5b4;
+}
+/*订单产品列表*/
+.pro-list{
+  margin: 0.26rem 0;
+  padding:0.48rem 0.26rem 0.293rem 0.2rem;
+  height: 3.20rem;
+  border:0.013rem solid #c5c3c3;
+  background:#fff;
+  
+}
+.pro-img{
+  width:2.026rem;
+  height:2.026rem;
+  padding:0;
+  margin-right: 0.293rem;
+}
+.pro-img img{
+  display: inline-block;
+  width:2.026rem;
+  height:2.026rem;
+  background: red;
+}
+.pro-info{
+  padding:0;
+}
+.pro-info dt{
+  color:#111;
+  font:bold 0.346rem/0.48rem Microsoft YaHei;
+}
+.pro-info dd{
+  color:#999;
+  font:0.32rem/0.5rem Microsoft YaHei;
+}
+.pro-info dd span{
+  display: inline-block;
+  padding-left: 0.32rem;
+}
+dd.pro-time{
+  margin-top:0.13rem;
+}
+.pro-status{
+  color:#2cc5b4;
+  text-align: right;
+  padding:0 0 0 0.293rem;
+}
+
+/*订单底部 合计价格*/
+/*.orderFooters{
+  height: 1.066rem;
+  line-height: 1.066rem;
+
+  !*!/如果要边框全屏 就给 orderFootera*!
+}
+.orderFootera{
+  background-color: #ffffff;
+  border:0.0133rem solid #D1D1D1;
+}*/
+.ordercount{
+  background-color: #fff;
+  border:0.0133rem solid #d1d1d1;
+}
+.order-info{
+  color:#666;
+  height:1.066rem;
+  padding: 0;
+  line-height: 1.066rem;
+  font-family: "Microsoft YaHei";
+}
+.orderFooter{
+  color:#666;
+  font-size:0.293rem;
+  
+}
+
+.order-info em{
+  font-style: normal;
+  
+}
+.order-info i{
+  color:#111;
+  font-size:0.2933rem;
+  font-style: normal;
+  display: inline-block;
+  margin-right:0.106rem ;
+}
+.price{
+  font: 0.4rem MicrosofeYaHei;
+  color:#111;
+  margin-left: 0.266rem;
+}
+.or-count{
+  margin-left:0.186rem;
+}

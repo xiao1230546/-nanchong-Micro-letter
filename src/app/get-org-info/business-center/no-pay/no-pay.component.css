@@ -1,0 +1,86 @@
+/*section {*/
+/*background: url("../../../../../assets/img/no-list.png") no-repeat center;*/
+/*background-size: 3.333rem 3.333rem;*/
+/*}*/
+section {
+  background-color: #ebebeb;
+  padding-top: 0.253rem;
+}
+.no-data {
+  text-align: center;
+}
+.no-data img {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 2.88rem;
+}
+.list-demo {
+  height: 4.76rem;
+  /*margin-top: 0.253rem;*/
+  /*background-color: #ffffee;*/
+}
+.goods-detail {
+  height: 3.2rem;
+  background-color: #ffffff;
+  border: 1px solid #c5c3c3;
+  box-sizing: border-box;
+  letter-spacing: 1px;
+  padding-right: 0.267rem;
+}
+.goods-face {
+  display: inline-block;
+  width: 2.026rem;
+  margin-top: 0.533rem;
+  margin-left: 0.24rem;
+  float: left;
+}
+.goods-intro {
+  width: 5.8rem;
+  margin-top: 0.467rem;
+  margin-left: 0.293rem;
+  float: left;
+  padding-right: 0.387rem;
+}
+.goods-intro p {
+  color: #999999;
+  font-size: 0.32rem;
+  line-height: 0.48rem;
+}
+#p1 {
+  line-height: 0.48rem;
+  color: #111111;
+  font-size: 0.347rem;
+  margin-bottom: 0.133rem;
+}
+.pay-state {
+  margin-top: 0.507rem;
+  font-size: 0.293rem;
+  color: #06c1ae;
+  float: right;
+}
+.goods-price {
+  height: 1.067rem;
+  line-height: 1.067rem;
+  background-color: #ffffff;
+  margin-top: 0.24rem;
+  border: 1px solid #c5c3c3;
+  box-sizing: border-box;
+  padding-right: 0.267rem;
+  font-size: 0.293rem;
+}
+.goods-price :first-child {
+  font-size: 0.293rem;
+  color: #666666;
+  letter-spacing: 1px;
+  margin-right: 0.107rem;
+}
+.goods-price :nth-child(2) {
+  font-size: 0.293rem;
+}
+.goods-price-box {
+  float: right;
+}
+#price {
+  font-size: 0.4rem;
+  color: #111111;
+}

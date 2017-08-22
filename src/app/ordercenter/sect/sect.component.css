@@ -1,0 +1,21 @@
+.no-data {
+  text-align: center;
+  width: 3.333rem;
+  height: 3.333rem;
+  margin: 0 auto;
+  color: #666666;
+  
+  
+}
+.no-datap{
+  font-size: 0.48rem;
+  text-align: center;
+  color: #666666;
+}
+.no-data img {
+  width: 100%;
+
+}
+.no-dataaas{
+  padding-top: 2.88rem;
+}

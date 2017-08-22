@@ -1,0 +1,30 @@
+<div *ngIf="false" class="defeated">账号或密码错误，请重新输入</div>
+<div class="container register">
+  <div class="register_name col-lg-12" >
+    <input #cardnumber  type="text" placeholder="会员卡号">
+  </div>
+  <div class="register_phoe col-lg-12">
+    <input #password type="password" placeholder="密码">
+  </div>
+  <div class="col-lg-12">
+    <div class="hint_deal">注：
+      <p>1.如果您的会员卡没有密码，需先设置密码</p>
+      <p>2.如果您的会员卡有密码，密码为必填项</p>
+      <p>3.如果您没有会员卡，请点击我没有会员卡,系统将会为您分配一张免密会员卡</p>
+    </div>
+  </div>
+</div>
+
+<div class="col-lg-12">
+  <p (click)="binding(cardnumber.value,password.value)" class="ensure">绑&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;定</p>
+</div>
+<div class="col-lg-12 ensure_bing">
+  <p (click)="nocard()" class="ensure">我没有会员卡</p>
+</div>
+<div class="col-lg-12">
+  
+  <p (click)="setpassword()" class="ensure">设置密码</p>
+</div>
+
+<nz-demo-spin-tip *ngIf="loadingoff"></nz-demo-spin-tip>
+<!--<app-loading *ngIf="boooff"></app-loading>-->

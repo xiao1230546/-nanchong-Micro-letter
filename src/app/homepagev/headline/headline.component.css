@@ -1,0 +1,15 @@
+.headline{
+  height: 1.173rem;
+  background-color: #06c1ae;
+}
+.headline_header{
+  display: inline-block;
+  color: #ffffff;
+  font-size: 0.453rem;
+  text-align: center ;
+  line-height: 1.173rem;
+  margin: 0 0 !important;
+  padding: 0 !important;
+  font-weight: 600;
+  
+}

@@ -1,0 +1,144 @@
+.whole{
+  width: 100%;
+  height:100%;
+  background: #ebebeb;
+}
+.top{
+  width: 100%;
+  height:1.173rem;
+  background: #06c1ae;
+  position:fixed;
+  top: 0;
+}
+.whole_commodity{
+  margin-left: 0.373rem;
+  font-size:0.453rem;
+  color:#ffffff;
+  float:left;
+  line-height: 1.173rem;
+}
+.add_commodity{
+  margin-right: 0.16rem;
+  font-size:0.373rem;
+  color:#ffffff;
+  float:right;
+  line-height: 1.173rem;
+}
+
+.bottom{
+  width: 100%;
+  height:1.333rem;
+  background: #fafafa;
+  position: fixed;
+  bottom: 0rem;
+}
+.shop_img{
+  width: 19%;
+  height: 100%;
+  float: left;
+  text-align: center;
+  border: 0.013rem solid #d1d1d1;
+  box-sizing: border-box;
+}
+.shop_img img{
+  width: 0.693rem;
+  height: 0.693rem;
+  margin-top: 0.32rem;
+}
+.top img{
+  width: 0.4rem;
+  height: 0.4rem;
+  float: right;
+  margin:0.386rem 0.373rem 0.386rem 0;
+}
+.my_shop{
+  float: left;
+  width: 27%;
+  height: 100%;
+  color: #4a4a4a;
+  font-size: 0.4rem;
+  text-align: center;
+  line-height: 1.333rem;
+  border: 0.013rem solid #d1d1d1;
+  box-sizing: border-box;
+}
+.commodity_istration{
+  float: left;
+  width: 27%;
+  height: 100%;
+  color: #06c1ae;
+  font-size: 0.4rem;
+  text-align: center;
+  line-height: 1.253rem;
+  border: 0.013rem solid #d1d1d1;
+  box-sizing: border-box;
+  border-top: 0.053rem solid #06c1ae;
+}
+.receivables{
+  float: left;
+  width: 27%;
+  height: 100%;
+  color: #4a4a4a;
+  font-size: 0.4rem;
+  text-align: center;
+  line-height: 1.333rem;
+  border: 0.013rem solid #d1d1d1;
+  box-sizing: border-box;
+}
+.commodity_item{
+  background: #ffffff;
+  margin-bottom: 1.333rem;
+}
+.item_content{
+  height: 3.36rem;
+  border-bottom: 0.013rem solid #d1d1d1;
+}
+.commodity_img{
+  height: 2.88rem;
+  width: 2.88rem;
+  float: left;
+  margin-top:0.24rem ;
+  margin-left: 0.4rem;
+}
+.commodity_content{
+  height: 2.88rem;
+  float: left;
+  margin-left: 0.293rem;
+  position: relative;
+  width: 5.733rem;
+  margin-top: 0.24rem;
+}
+.commodity_name{
+  font-size: 0.346rem;
+  color: #3d4245;
+  position: absolute;
+  overflow : hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp:2;
+  -webkit-box-orient: vertical;
+}
+.commodity_address{
+  font-size: 0.32rem;
+  color: #666666;
+  line-height: 2.88rem;
+  position: absolute;
+}
+.commodity_address span{
+  font-size: 0.32rem;
+  color: #fe566d;
+}
+.commodity_price{
+  position: absolute;
+  font-size: 0.293rem;
+  color: #ff7400;
+  position: absolute;
+  bottom: 0px;
+}
+.commodity_price span{
+  font-size: 0.4rem;
+  color: #ff7400;
+}
+.top_spacing{
+  height: 1.173rem;
+}

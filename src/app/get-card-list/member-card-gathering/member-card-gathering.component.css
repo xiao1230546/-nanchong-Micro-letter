@@ -1,0 +1,105 @@
+.div1{
+  background: #ebebeb;
+  /*747,1205px 23.34em,37.65em*/
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+}
+.navDiv {
+  width: 100%;
+  height: 1.173rem;
+  line-height: 1.173rem;
+  background-color: #06C1AE;
+  text-align: center;
+  color: #ffffff;
+  font-size: 0.453rem;
+  font-family: arial,"MicrosoftYaHei";
+  position: relative;
+}
+.backBtn {
+  top: 0.303rem;
+  left: 0.32rem;
+  width: 0.48rem;
+  height: 0.48rem;
+  position: absolute;
+}
+.cardId {
+  display: block;
+  margin: 0 auto;
+  margin-top: 1.573rem;
+  width: 8.293rem;
+  height: 1.11rem;
+  border-radius: 3px;
+  box-shadow: 3px 3px 3px rgb(197, 194, 194);
+  text-indent: 1.67rem;
+  font-size: 0.4rem;
+}
+.password {
+  display: block;
+  margin: 0 auto;
+  margin-top: 0.373rem;
+  width: 8.293rem;
+  height: 1.11rem;
+  border-radius: 3px;
+  box-shadow: 3px 3px 3px rgb(197, 194, 194);
+  text-indent: 1.67rem;
+  font-size: 0.4rem;
+}
+.cardNumImg {
+  width: 0.48rem;
+  height: 0.48rem;
+  margin-top: -0.80rem;
+  margin-left: 1.39rem;
+  position: absolute;
+}
+.cardPwImg {
+  width: 0.48rem;
+  height: 0.48rem;
+  margin-top: -0.80rem;
+  margin-left: 1.39rem;
+  position: absolute;
+}
+.deletBtnImg {
+  width: 0.48rem;
+  height: 0.48rem;
+  margin-top: -0.80rem;
+  margin-left: 8.493rem;
+  position: absolute;
+}
+.p2 {
+  position: absolute;
+  top: 8.947rem;
+  left: 2.727rem;
+  font-size: 0.32rem;
+}
+.userRegistProtocal {
+  color: rgb(6, 193, 174)
+}
+.confirmBtn {
+  display: block;
+  margin: 0 auto;
+  margin-top: 4.373rem;
+  width: 4rem;
+  height: 1.147rem;
+  background: #06C1AE;
+  color: white;
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px rgb(197, 194, 194);
+  font-size: 0.48rem;
+}
+.menberInfo {
+  left: 0.8rem;
+  margin-top: 0.533rem;
+  position: absolute;
+  font-size: 0.32rem;
+  color: #d78900;
+}
+.phoneNum {
+  right: 0.8rem;
+  margin-top: 0.533rem;
+  position: absolute;
+  font-size: 0.32rem;
+  color: #d78900;
+}

@@ -1,0 +1,23 @@
+.Logo {
+  width: 1.413rem;
+  height: 1.413rem;
+  padding: 0;
+}
+.Title {
+  margin: 0 !important;
+  font-size: 0.48rem;
+  line-height: 1.413rem;
+  padding:0 0 0 0.266rem;
+}
+.p1 {
+  margin-top: 0.5rem;
+  font-size: 0.4rem;
+  color: #3e3e3e;
+  text-indent: 1rem;
+  letter-spacing: 0.026rem;
+  line-height: 0.7rem;
+  margin-bottom: 0.5rem;
+}
+.Logo_tlie{
+  margin-bottom: 0.853rem;
+}

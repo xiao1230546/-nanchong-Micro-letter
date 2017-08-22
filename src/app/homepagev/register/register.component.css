@@ -1,0 +1,62 @@
+.register{
+ /*// height:1.226rem;*/
+  background-color: #EBEBEB;
+  padding: 1.546rem 0 0 0 ;
+}
+
+.register_name>input,.register_phoe>input{
+  height: 1.227rem;
+  color: #4a4a4a;
+  width: 100%;
+  
+}
+.register_name>input{
+  background:url("../../../assets/img/NAME.png") no-repeat left center;
+  background-size: 0.48rem 0.48rem;
+  background-position: 0.510rem;
+  padding-left: 1.64rem;
+  background-color: #ffffff;
+  margin-bottom: 0.4rem;
+  
+}
+.register_phoe>input{
+  background:url("../../../assets/img/PHONE NUMBER.png") no-repeat left center;
+  background-size: 0.48rem 0.48rem;
+  background-position: 0.510rem;
+  padding-left: 1.64rem;
+  background-color: #ffffff;
+  margin-bottom: 0.4rem;
+}
+
+
+.hint{
+  font-size: 0.293rem;
+  color: #4a4a4a;
+  padding-left: 0.182rem;
+}
+.hint_deal{
+  background:url("../../../assets/img/TO CHECK_GREEN.png") no-repeat left center;
+  background-size: 0.32rem 0.32rem;
+  padding-left: 0.4rem;
+  font-size: 0.267rem;
+  margin-left: 0.182rem;
+  margin-bottom: 3.013rem
+}
+.hint_deal a{
+  font-size: 0.267rem;
+  color: #06c1ae;
+
+}
+.ensure{
+  width: 4rem;
+  height: 1.147rem;
+  line-height: 1.147rem;
+  color: #ffffff;
+  font-size: 0.48rem;
+  text-align: center;
+  border-radius: 0.133rem;
+  background-color: #06C1AE;
+  margin: 0 auto !important;
+  box-shadow: 0.053rem 0.173rem 0.36rem #170808;
+  border: 0.013rem solid #00bda2;
+}

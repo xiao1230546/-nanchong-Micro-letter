@@ -1,0 +1,42 @@
+
+路由配置指向路径加
+{path:'company',component:CompanyprofileComponent},  //公司简介
+{path:'search',component:SearchComponent},  //附近商家
+{path:'member',component:RegisterComponent}, //会员中心(手机绑定)
+{path:'search',component:SearchComponent},  //商家中心
+{path:'verify/:phone',component:VerifyComponent}  //手机验证码
+
+
+项目结构
+
+homepagev  公众号首页相关
+  companyprofile  公司简介
+  headline    标题
+  register    注册
+  verify     手机验证码
+
+
+binding    绑定会员相关
+  layers   个人信息弹层
+  password  会员卡密码绑定
+  publicinformation   个人信息
+  setpassword      会员卡设置密码
+
+nearbyshops 附近商家相关
+  baidumap   百度地图
+  businesslistings 店铺列表
+  commoditydetails 商品详情
+  layersa     商品购买弹层
+  merchant-store  商品信息
+    commodity-information 空
+    shop-details     搜索
+  search     商家搜索 附近商家
+  searchbox  搜索
+  tradename   商品列表
+  submtorder   提交订单
+  site     新增收货地址弹曾
+    selectaddress   选择收货地址弹层
+
+
+member-center   会员中心
+  membercenter  会员中心

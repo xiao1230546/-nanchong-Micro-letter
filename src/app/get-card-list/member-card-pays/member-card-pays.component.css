@@ -1,0 +1,93 @@
+.div0 {
+  background: #06C1AE;
+  width: 100%;
+  height: 4.53rem;
+  position: relative;
+}
+.title {
+  color: #ffffff;
+  margin-left: 0.453rem;
+  margin-top: 0.747rem;
+  position: absolute;
+  font-size: 0.373rem;
+  
+}
+.money {
+  color: #ffffff;
+  margin-left: 0.453rem;
+  margin-top: 1.58rem;
+  position: absolute;
+  font-size: 1.867rem;
+}
+.div1{
+  background: #ebebeb;
+  /*747,1205px 23.34em,37.65em*/
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  top: 4.53rem;
+  position: absolute;
+}
+.cardId {
+  display: block;
+  margin: 0 auto;
+  margin-top: 0.386rem;
+  width: 8.293rem;
+  height: 1.11rem;
+  border-radius: 3px;
+  box-shadow: 3px 3px 3px rgb(197, 194, 194);
+  text-indent: 1.67rem;
+  font-size: 0.4rem;
+}
+.password {
+  display: block;
+  margin: 0 auto;
+  margin-top: 0.373rem;
+  width: 8.293rem;
+  height: 1.11rem;
+  border-radius: 3px;
+  box-shadow: 3px 3px 3px rgb(197, 194, 194);
+  text-indent: 1.67rem;
+  font-size: 0.4rem;
+}
+.cardNumImg {
+  width: 0.48rem;
+  height: 0.48rem;
+  margin-top: -0.80rem;
+  margin-left: 1.39rem;
+  position: absolute;
+}
+.cardPwImg {
+  width: 0.48rem;
+  height: 0.48rem;
+  margin-top: -0.80rem;
+  margin-left: 1.39rem;
+  position: absolute;
+}
+.bindingBtn {
+  display: block;
+  margin: 0 auto;
+  margin-top: 1.48rem;
+  width: 4rem;
+  height: 1.173rem;
+  background: #06C1AE;
+  color: white;
+  border-radius: 0.133rem;
+  box-shadow: 3px 3px 3px rgb(197, 194, 194);
+  font-size: 0.48rem;
+}
+
+.p1 {
+  margin-top: 0.507rem;
+  margin-left: 0.83rem;
+  margin-right: 0.83rem;
+  color: #4A4A4A;
+}
+.deletBtnImg {
+  width: 0.48rem;
+  height: 0.48rem;
+  margin-top: -0.80rem;
+  margin-left: 8.493rem;
+  position: absolute;
+}

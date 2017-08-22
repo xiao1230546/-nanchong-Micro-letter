@@ -1,0 +1,121 @@
+.divHome{
+  background: #ebebeb;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+}
+.div1 {
+  width: 100%;
+  background-color: white;
+  height: 1.12rem;
+  line-height: 1.12rem;
+  border-bottom:0.013rem solid rgb(197, 195, 195);
+  text-align: center;
+  font-size: 0.4rem;
+}
+.div2 {
+  width: 100%;
+  background-color: white;
+  height: 1.653rem;
+  border-bottom:0.013rem solid rgb(197, 195, 195);
+}
+.Product {
+  margin-left: 0.347rem;
+  margin-top: 0.4rem;
+  position: absolute;
+  color: #666666;
+}
+.ProductDetail1 {
+  margin-left: 5.627rem;
+  margin-top: 0.4rem;
+  position: absolute;
+  color: #999999;
+  font-size: 0.32rem;
+}
+.ProductDetail2 {
+  margin-left: 8.040rem;
+  margin-top: 0.933rem;
+  position: absolute;
+  color: #999999;
+  font-size: 0.32rem;
+}
+.div3 {
+  width: 100%;
+  background-color: white;
+  height: 2.373rem;
+  border-bottom:0.013rem solid rgb(197, 195, 195);
+}
+.lb1 {
+  margin-left: 0.347rem;
+  margin-top: 0.4rem;
+  position: absolute;
+  color: #666666;
+}
+.lb2 {
+  margin-left: 0.347rem;
+  margin-top: 1.02rem;
+  position: absolute;
+  color: #666666;
+}
+.lb3 {
+  margin-left: 0.347rem;
+  margin-top: 1.647rem;
+  position: absolute;
+  color: #666666;
+}
+.lb1Detail {
+  margin-left: 6.32rem;
+  margin-top: 0.4rem;
+  position: absolute;
+  color: #999999;
+}
+.lb2Detail {
+  margin-left: 7.853rem;
+  margin-top: 1.02rem;
+  position: absolute;
+  color: #999999;
+}
+.lb3Detail {
+  margin-left: 8.173rem;
+  margin-top: 1.647rem;
+  position: absolute;
+  color: #999999;
+}
+.div4 {
+  width: 100%;
+  background-color: white;
+  height: 1.067rem;
+  border-bottom:0.013rem solid rgb(197, 195, 195);
+}
+.PayMoney {
+  margin-left: 0.347rem;
+  margin-top: 0.333rem;
+  position: absolute;
+  color: #666666;
+}
+.PayMoneyDetail {
+  margin-left: 8.613rem;
+  margin-top: 0.333rem;
+  position: absolute;
+  color: #999999;
+}
+.div5 {
+  width: 100%;
+  background-color: white;
+  height: 1.067rem;
+  border-bottom:0.013rem solid rgb(197, 195, 195);
+}
+.ServePhone {
+  margin-left: 0.347rem;
+  margin-top: 0.333rem;
+  position: absolute;
+  color: #666666;
+}
+.ServePhoneDetail {
+  margin-left: 7.493rem;
+  margin-top: 0.333rem;
+  position: absolute;
+  color: #999999;
+}

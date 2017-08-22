@@ -1,0 +1,36 @@
+.whole{
+  width: 100%;
+  height:100%;
+  background: #ebebeb;
+  padding-top: 0.346rem;
+}
+.time{
+  width: 1.733rem;
+  height:0.533rem;
+  text-align: center;
+  background: #111111;
+  opacity: 0.12;
+  filter:alpha(opacity=12);
+  margin: 0rem auto;
+  color: #ffffff;
+  font-size: 0.293rem;
+  border-radius:0.133rem;
+  line-height: 0.533rem;
+}
+.merchantssettled_banner{
+  margin: 0.533rem 0.333rem 0rem 0.333rem;
+  width: 9.333rem;
+  height: 4.476rem;
+  background: url("../../../assets/img/merchantssettled_banner.png");
+}
+.immediatelysettled_btn{
+  width: 4rem;
+  height: 1.146rem;
+  background: #06c1ae;
+  border: 0.013rem solid #00bda2;
+  border-radius:0.133rem;
+  margin: 3.68rem 3.013rem 0rem 3.013rem;
+  color: #ffffff;
+  font-size: 0.48rem;
+  box-shadow: 0.053rem 0.173rem 0.36rem 0 #bfbdbd;
+}

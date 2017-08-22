@@ -1,0 +1,30 @@
+.cash_com,.cash_com_a{
+  background-color: #ffffff;
+  border-bottom: 0.013rem solid #d1d1d1;
+}
+.cash{
+  font-size: 0.4266rem;
+  height: 1.173rem;
+  line-height: 1.173rem;
+  color: #06C1AE;
+ 
+}
+
+.cash_com_a div{
+  padding: 0;
+  margin: 0;
+  height: 1.6rem;
+  line-height: 1.6rem;
+}
+.cash_sj{
+  font-size: 0.32rem;
+  color: #666666;
+}
+.cash_neixing{
+  font-size: 0.4rem;
+  color: #111111;
+}
+.cash_jiner{
+  font-size: 0.4rem;
+  color: #06C1AE;
+}
